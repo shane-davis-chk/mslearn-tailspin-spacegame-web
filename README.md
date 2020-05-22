@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/chkenergy/sdavis6%20-%20test/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/chkenergy/sdavis6%20-%20test/_build/latest?definitionId=1038&branchName=master)
 
 # Contributing
 
